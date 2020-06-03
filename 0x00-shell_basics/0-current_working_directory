@@ -1,7 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-pwd
-=======
-echo ~pwd
-\n
->>>>>>> 3162bb74af1c3d0d1318732964fe0be1b59692a5
+ls
